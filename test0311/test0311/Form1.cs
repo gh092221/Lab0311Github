@@ -21,5 +21,10 @@ namespace test0311
         {
             button2.Text = "ok";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //master
+        }
     }
 }
